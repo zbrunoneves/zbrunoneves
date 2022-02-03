@@ -1,16 +1,18 @@
-### Hi there 👋
+<h2 align="center">Falae! 🤙</h3>
+<h5 align="center"> Um flamenguista tijucano, fã de the witcher e guitarrista nas horas vagas.</h3>
 
-<!--
-**zbrunoneves/zbrunoneves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- footer -->
+<h6 align="center"><i>Pelas webs:</i></h3>
+<p align="center">
+  <a href="https://twitter.com/zbrunoneves" target="blank">
+    <img src="https://raw.githubusercontent.com/zbrunoneves/zbrunoneves/549b97d698f81dbc2e4eb3c841b60a322cb67c82/icon/twitter.svg" alt="Twitter" width="25" />
+  </a>
+  
+  <a href="https://linkedin.com/in/lebrunoneves" target="blank">
+    <img src="https://raw.githubusercontent.com/zbrunoneves/zbrunoneves/549b97d698f81dbc2e4eb3c841b60a322cb67c82/icon/linkedin.svg" alt="Linkedin" width="25" />
+  </a>
+  
+  <a href="https://instagram.com/zbrunoneves" target="blank">
+    <img src="https://raw.githubusercontent.com/zbrunoneves/zbrunoneves/549b97d698f81dbc2e4eb3c841b60a322cb67c82/icon/instagram.svg" alt="Instagram" width="25" />
+  </a>
+</p>
